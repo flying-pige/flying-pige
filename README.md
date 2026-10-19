@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🐷👼 flying pige
 
-<!--
-**flying-pige/flying-pige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Atelier Pige** の小さな空飛ぶぶたさん。
 
-Here are some ideas to get you started:
+> *pige* (ピジュ) = **pig** + **ange**（フランス語で「天使」）
+> When pigs fly ── 「ありえない」と言われることも、作ってみたら叶うかもしれない。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The little flying pig of **Atelier Pige**.
+*pige* = pig + *ange* (French for "angel"). When pigs fly, anything can happen.
+
+---
+
+## 🧵 Atelier Pige で作っているもの / What I make
+
+- 🎵 音楽 / Music
+- 🎨 イラスト / Illustration
+- 🪡 ソーイング / Sewing
+- 🌿 アロマ / Aroma
+- 🎮 ゲーム / Games
+- 📚 本 / Books
+- 📺 YouTube
+
+コードは、こうした「作りたいもの」を支える道具として書いています。
+I write code as a tool for the things I want to make.
+
+---
+
+## 🔗 Links
+
+<!-- 公開できるものから順に追加してください -->
+<!-- - 🐦 X: [@flying_pige](https://x.com/flying_pige) -->
+<!-- - 📷 Instagram: [@flying_pige](https://www.instagram.com/flying_pige/) -->
+<!-- - 📺 YouTube: [flying pige](https://www.youtube.com/@flying_pige) -->
+- 🏠 Atelier Pige: [@atelier-pige](https://github.com/atelier-pige)
+
+---
+
+<sub>© 2026 Atelier Pige</sub>
