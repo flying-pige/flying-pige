@@ -3,9 +3,11 @@
 **Atelier Pige** の小さな空飛ぶぶたさん。
 
 > *pige* (ピジュ) = **pig** + **ange**（フランス語で「天使」）
+> 
 > When pigs fly ── 「ありえない」と言われることも、作ってみたら叶うかもしれない。
 
 The little flying pig of **Atelier Pige**.
+
 *pige* = pig + *ange* (French for "angel"). When pigs fly, anything can happen.
 
 ---
@@ -21,6 +23,7 @@ The little flying pig of **Atelier Pige**.
 - 📺 YouTube
 
 コードは、こうした「作りたいもの」を支える道具として書いています。
+
 I write code as a tool for the things I want to make.
 
 ---
