@@ -33,7 +33,7 @@ I write code as a tool for the things I want to make.
 <!-- 公開できるものから順に追加してください -->
 - 🐦 X: [@flying_pige](https://x.com/flying_pige)
 <!-- - 📷 Instagram: [@flying_pige](https://www.instagram.com/flying_pige/) -->
-<!-- - 📺 YouTube: [flying pige](https://www.youtube.com/@flying_pige) -->
+- 📺 YouTube: [flying pige](https://www.youtube.com/@flying_pige)
 - 🏠 Atelier Pige: [@atelier-pige](https://github.com/atelier-pige)
 
 ---
